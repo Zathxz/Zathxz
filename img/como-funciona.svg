@@ -8,11 +8,11 @@
   .corre{animation:co 6s linear infinite}@keyframes co{0%{transform:translateX(0);opacity:0}5%{opacity:1}75%{opacity:1}85%,100%{transform:translateX(780px);opacity:0}}
 </style>
 <defs><filter id="gl" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="10"/></filter>
-<linearGradient id="c0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#0B1220" stop-opacity="1"/></linearGradient><linearGradient id="c1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34D399" stop-opacity=".16"/><stop offset="1" stop-color="#0B1220" stop-opacity="1"/></linearGradient><linearGradient id="c2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBBF24" stop-opacity=".16"/><stop offset="1" stop-color="#0B1220" stop-opacity="1"/></linearGradient></defs>
-<rect width="1280" height="360" rx="28" fill="#02060E"/><rect x=".5" y=".5" width="1279" height="359" rx="28" fill="none" stroke="#1D2740"/>
+<linearGradient id="c0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#110709" stop-opacity="1"/></linearGradient><linearGradient id="c1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34D399" stop-opacity=".16"/><stop offset="1" stop-color="#110709" stop-opacity="1"/></linearGradient><linearGradient id="c2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBBF24" stop-opacity=".16"/><stop offset="1" stop-color="#110709" stop-opacity="1"/></linearGradient></defs>
+<rect width="1280" height="360" rx="28" fill="#05060a"/><rect x=".5" y=".5" width="1279" height="359" rx="28" fill="none" stroke="#2a1013"/>
 <text x="640" y="58" text-anchor="middle" class="s">PASSO A PASSO</text>
 <text x="640" y="98" text-anchor="middle" class="h">Como funciona</text>
-<line x1="250" y1="232" x2="1030" y2="232" stroke="#1D2740" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
+<line x1="250" y1="232" x2="1030" y2="232" stroke="#2a1013" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
 <g class="corre"><circle cx="250" cy="232" r="7" fill="#fff"/><circle cx="250" cy="232" r="16" fill="#fff" opacity=".25" filter="url(#gl)"/></g>
 <g class="card" style="animation-delay:0s">
   <rect x="80" y="140" width="320" height="190" rx="22" fill="#22D3EE" opacity=".25" filter="url(#gl)"/>

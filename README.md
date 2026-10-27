@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://zath-prototipo.zathbux.workers.dev"><img src="img/topo.svg" width="100%" alt="ZathBux — Robux no Pix, entrega automática pelo seu Game Pass"></a>
+<a href="https://zath-prototipo.zathbux.workers.dev"><img src="img/topo.svg" width="100%" alt="Infinity Robux — Robux no Pix, entrega automática pelo seu Game Pass"></a>
 
 <br><br>
 
@@ -13,7 +13,7 @@
 
 <br><br>
 
-<a href="https://zath-prototipo.zathbux.workers.dev"><img src="img/site.webp" width="100%" alt="O site da ZathBux por dentro"></a>
+<a href="https://zath-prototipo.zathbux.workers.dev"><img src="img/site.webp" width="100%" alt="O site da Infinity Robux por dentro"></a>
 <sub>O site de verdade, por dentro. <a href="https://zath-prototipo.zathbux.workers.dev">Abrir a loja</a></sub>
 
 <br><br>
@@ -22,6 +22,6 @@
 
 <br><br>
 
-<img src="img/rodape.svg" width="100%" alt="ZathBux, loja de Robux feita no Brasil">
+<img src="img/rodape.svg" width="100%" alt="Infinity Robux, loja de Robux feita no Brasil">
 
 </div>
